@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "59f97cf6abf6201b862551f66eae0762"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "18019745"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5122435061:AAHppItf8tjFn0TViO7WDQoV8GBPIvRWoQk"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
-            "value": ""
+            "value": "907416893"
         },
         "HEROKU_API": {
             "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
@@ -44,7 +44,7 @@
         },
         "LOG_ID": {
             "description": "Log channel `ID` (Should be Public)",
-            "value": ""
+            "value": "-1001628469349"
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
@@ -52,19 +52,19 @@
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
-            "value": ""
+            "value": "mongodb+srv://lathu:lathu@cluster0.hgghtmd.mongodb.net/?retryWrites=true&w=majority"
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": ""
+            "value": "-1001753211376"
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": ""
+            "value": "llathu63035"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": ""
+            "value": "suchitha1bot"
         }
     },
     "buildpacks": [
